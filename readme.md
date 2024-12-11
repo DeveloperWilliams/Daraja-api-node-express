@@ -42,7 +42,7 @@ DARAJA_CONSUMER_KEY=your_consumer_key
 DARAJA_CONSUMER_SECRET=your_consumer_secret
 DARAJA_SHORTCODE=your_shortcode
 DARAJA_PASSKEY=your_passkey
-CALLBACK_URL=https://yourdomain.com/callback (use  ngrok to expose your backend )
+CALLBACK_URL=https://yourdomain.com/callback (use  ngrok to expose your backend on local development)
 
 
 
@@ -54,6 +54,9 @@ or
 ```sh
 npm run dev
 ```
+
+---
+
 
 ## Contributing
 
@@ -71,6 +74,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@dev_williee](https://x.com/dev_williee) - your-email@example.com
+Your Name - [@dev_williee](https://x.com/dev_williee) - archywilliams2@gmail.com
 
 Project Link: [https://github.com/DeveloperWilliams/Daraja-api-node-express.git](https://github.com/DeveloperWilliams/Daraja-api-node-express.git)

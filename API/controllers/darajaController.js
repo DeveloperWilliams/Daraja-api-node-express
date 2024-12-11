@@ -19,7 +19,6 @@ const {
   CALLBACK_URL, // URL Safaricom will send callback responses to
 } = process.env;
 
-console.log(DARAJA_CONSUMER_KEY)
 
 // Utility Function: Generate OAuth Token
 // This function generates an OAuth token needed to authenticate requests to Safaricom's Daraja API.
